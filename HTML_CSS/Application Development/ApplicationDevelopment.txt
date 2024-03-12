@@ -1,0 +1,1 @@
+While HTML and CSS are primarily used for creating the structure and styling of web pages respectively, they are fundamental for web application development. Together with JavaScript, they form the backbone of front-end development, enabling the creation of interactive and visually appealing web applications.
